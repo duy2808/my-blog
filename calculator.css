@@ -1,0 +1,6 @@
+.fraction ,.multiply ,.minus ,.plus, .equal {
+	background-color: orange;
+}	
+.well:hover {
+	background-color: green;
+}
